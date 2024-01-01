@@ -34,6 +34,6 @@
 
 ## gnome-disk-utility
 
-* Petty much all the `fstab` info and options can be set/edited in
+* Pretty much all the `fstab` info and options can be set/edited in
   the *gnome-disk-utility* (AKA *Disks*)...
 
